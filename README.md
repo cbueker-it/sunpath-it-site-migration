@@ -24,7 +24,7 @@ Documented website, hosting, DNS, Cloudflare, WordPress, and HTTP 301 redirect m
 - The new site needed to represent the transition from SunPath SEO to the broader SunPath IT business.
 - DreamHost confirmed that WordPress was successfully installed and ready for configuration.
 
-<img src="images/03-new-wordpress-site-installed.png" alt="DreamHost confirmation that WordPress was installed for SunPath IT" width="700"/>
+<img src="images1/03-new-wordpress-site-installed.png" alt="DreamHost confirmation that WordPress was installed for SunPath IT" width="700"/>
 
 **Redirect Destination Configuration**
 
@@ -32,7 +32,7 @@ Documented website, hosting, DNS, Cloudflare, WordPress, and HTTP 301 redirect m
 - Existing business materials, referrals, and online references still directed people to `sunpathseo.com`.
 - The redirect provided a practical way to send those visitors to the active SunPath IT website.
 
-<img src="images/04-old-domain-redirect-destination.png" alt="DreamHost redirect destination from SunPath SEO to SunPath IT" width="700"/>
+<img src="images1/04-old-domain-redirect-destination.png" alt="DreamHost redirect destination from SunPath SEO to SunPath IT" width="700"/>
 
 **Final Domain and Hosting Status**
 
@@ -40,7 +40,7 @@ Documented website, hosting, DNS, Cloudflare, WordPress, and HTTP 301 redirect m
 - I needed to confirm that the new website was actively hosted and that the former domain was no longer using the hosting slot.
 - `sunpathit.com` showed active hosting, while `sunpathseo.com` showed redirect status.
 
-<img src="images/05-final-domain-hosting-status.png" alt="Final DreamHost hosting and redirect status for SunPath IT and SunPath SEO" width="700"/>
+<img src="images1/05-final-domain-hosting-status.png" alt="Final DreamHost hosting and redirect status for SunPath IT and SunPath SEO" width="700"/>
 
 **Cloudflare 301 Redirect Rules**
 
@@ -48,7 +48,7 @@ Documented website, hosting, DNS, Cloudflare, WordPress, and HTTP 301 redirect m
 - Both versions of the former domain needed to send visitors to the same SunPath IT address.
 - The enabled rules used HTTP `301` permanent redirects to `https://www.sunpathit.com/`.
 
-<img src="images/06-cloudflare-301-redirect-rules.png" alt="Cloudflare 301 redirect rules for the SunPath SEO domain" width="700"/>
+<img src="images1/06-cloudflare-301-redirect-rules.png" alt="Cloudflare 301 redirect rules for the SunPath SEO domain" width="700"/>
 
 **Command-Line Redirect Validation**
 
@@ -56,4 +56,4 @@ Documented website, hosting, DNS, Cloudflare, WordPress, and HTTP 301 redirect m
 - Command-line testing allowed me to verify the HTTP status, redirect destination, and responding service directly.
 - Both requests returned `HTTP/2 301`, pointed to `https://www.sunpathit.com/`, and showed Cloudflare as the responding server.
 
-<img src="images/07-cli-redirect-validation.png" alt="Linux curl validation showing HTTP 301 redirects to SunPath IT" width="700"/>
+<img src="images1/07-cli-redirect-validation.png" alt="Linux curl validation showing HTTP 301 redirects to SunPath IT" width="700"/>
