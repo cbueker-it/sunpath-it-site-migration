@@ -8,7 +8,7 @@ Documented website, hosting, DNS, Cloudflare, WordPress, and HTTP 301 redirect m
 - My hosting plan supported one active website, and I did not need to purchase another hosting plan for the transition.
 - This gave me a path to keep control of the old domain while preparing it for redirect use.
 
-<img src="images/01-old-domain-dns-only-planning.png" alt="DreamHost DNS-only planning for the former SunPath SEO domain" width="700"/>
+<img src="images1/01-old-domain-dns-only-planning.png" alt="DreamHost DNS-only planning for the former SunPath SEO domain" width="700"/>
 
 **Old Hosting Plan Removal**
 
@@ -16,7 +16,7 @@ Documented website, hosting, DNS, Cloudflare, WordPress, and HTTP 301 redirect m
 - I needed the available hosting slot for the new `sunpathit.com` website and chose not to pay for an additional plan.
 - DreamHost confirmed that the old hosting plan was removed while the domain remained available for DNS and redirect configuration.
 
-<img src="images/02-old-hosting-plan-removed.png" alt="DreamHost confirmation that the SunPath SEO hosting plan was removed" width="700"/>
+<img src="images1/02-old-hosting-plan-removed.png" alt="DreamHost confirmation that the SunPath SEO hosting plan was removed" width="700"/>
 
 **New WordPress Site Installation**
 
