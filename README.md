@@ -12,8 +12,6 @@ That realization led me to expand my services and change the business name from 
 
 This project documents that real migration. I installed the new WordPress site, removed the former hosting environment, configured permanent redirects through DreamHost and Cloudflare, tested both versions of the old domain, and verified the results from my Debian workstation.
 
-I completed the technical work first, captured screenshots during the process, and then documented the decisions, configuration steps, validation, and business impact.
-
 **Project Objectives**
 
 - Establish `sunpathit.com` as the primary website for SunPath IT
