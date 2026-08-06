@@ -6,7 +6,7 @@ Documented website, hosting, DNS, Cloudflare, WordPress, and HTTP 301 redirect m
 
 SunPath IT started as SunPath SEO, where I focused on technical SEO, WordPress, DNS, Cloudflare, website performance, search visibility, and technical troubleshooting.
 
-As I worked with small businesses and mission-driven organizations, I started realizing that the problem was often much larger than technical SEO. Many small organizations also needed help with their networks, accounts, systems, security, backups, documentation, and overall technical foundation.
+As I worked with small organizations, I started realizing that the problem was often much larger than technical SEO. Many small organizations also needed help with their networks, accounts, systems, security, backups, documentation, and overall technical foundation.
 
 That realization led me to expand my services and change the business name from SunPath SEO, LLC to SunPath IT, LLC. Once the business identity changed, I needed to move the website to `sunpathit.com` while continuing to support people who still used the former `sunpathseo.com` address.
 
