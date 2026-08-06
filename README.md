@@ -23,7 +23,7 @@ This project documents that real migration. I installed the new WordPress site, 
 - Support both the root and `www` versions of the former domain
 - Use HTTP 301 permanent redirects for the transition
 - Validate the redirect behavior from my Debian workstation
-- Reduce the effect of the migration on business visitors and referrals
+- Minimize and work the eliminate the effect of the migration on web visitors
 
 **DNS-Only Planning**
 
