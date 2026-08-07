@@ -87,7 +87,7 @@ This project allowed for a real business migration while preserving a working pa
 
 Visitors who went to `sunpathseo.com` were successfully redirected to `https://www.sunpathit.com/`.
 
-This type of migration also allowed me to move the business to its new SunPath IT identity without paying for an unnecessary second hosting plan.
+This type of migration also allowed me to move my website to its online destination without paying for an unnecessary second hosting plan.
 
 The transition caused about 45 to 60  minutes of downtime. I completed the work on a Sunday afternoon, which helped reduce the likelihood of affecting normal business activity and minimized the overall business impact.
 
