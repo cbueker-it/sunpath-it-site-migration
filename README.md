@@ -6,7 +6,7 @@ Documented website, hosting, DNS, Cloudflare, WordPress, and HTTP 301 redirect m
 
 SunPath IT started as SunPath SEO, where I focused on technical SEO, WordPress, DNS, Cloudflare, website performance, search visibility, and technical troubleshooting.
 
-As I worked with small organizations, I started realizing that the problem was often much larger than technical SEO. Many small businesses and organizations also needed help with their networks, accounts, systems, security, backups, documentation, and overall technical foundation.
+While working with small businesses and small organizations, I started realizing that the problem was often much larger than technical SEO. Many small businesses and organizations also needed help with their networks, accounts, systems, security, backups, documentation, and overall technical foundation.
 
 That realization led me to expand my services and change the business name from SunPath SEO, LLC to SunPath IT, LLC. Once the business identity changed, I needed to move the website to `sunpathit.com` while continuing to support people who still used the former `sunpathseo.com` address.
 
@@ -83,13 +83,13 @@ This project documents that real migration. I installed the new WordPress site, 
 
 **Business Impact**
 
-This project allowed for a real business migration while preserving a working path for people who still had the former SunPath SEO website address on printed materials, documents, and older references.
+This project allowed for a real business migration while preserving a working path for visitors of SunPathSEO.com.
 
 Visitors who went to `sunpathseo.com` were successfully redirected to `https://www.sunpathit.com/`.
 
-The migration also allowed me to move the business to its new SunPath IT identity without paying for an unnecessary second hosting plan.
+This type of migration also allowed me to move the business to its new SunPath IT identity without paying for an unnecessary second hosting plan.
 
-The transition caused about 60 to 90 minutes of downtime. I completed the work on a Sunday afternoon, which helped reduce the likelihood of affecting normal business activity and minimized the overall business impact.
+The transition caused about 45 to 60  minutes of downtime. I completed the work on a Sunday afternoon, which helped reduce the likelihood of affecting normal business activity and minimized the overall business impact.
 
 **Skills Demonstrated**
 
